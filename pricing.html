@@ -161,7 +161,7 @@
                             <div class="grid grid-1">
                                 <div class="column colspan-1">
                                     <h1 class="price-block--heading">Basic</h1>
-                                    <h1 class="price-block--amount"><sup>$</sup><span class="monthlyPricing">19,90</span></h1>
+                                    <h1 class="price-block--amount"><sup id="symbol">$</sup><span class="monthlyPricing">19,90</span></h1>
                                     <h2 class="price-block--recurrence">per month</h2>
                                     <div class="price-block--tier">
                                         <h3>You'll be able to access to all properties from counties mapped to the platform</h3> </div> 
@@ -363,6 +363,7 @@
 $.getJSON('http://ip-api.com/json', function (data) {
 	if(data.countryCode == 'BR' )
     $('#buttonId').val("C8XQYGALXSFQE");
-	$('.monthlyPricing').text('R$ 49,90');
+	$('.monthlyPricing').text('49,90');
+	$('#symbol').text('R$');
 });
 </script>
