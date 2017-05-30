@@ -1,0 +1,1306 @@
+#RELATIVE {
+    position: relative
+}
+
+#ABSOLUTE {
+    position: absolute
+}
+
+#FIXED {
+    position: fixed
+}
+
+#LEFT,
+body.inpaas section.vantagens .column h3,
+body.inpaas section.plus-inpaas h3,
+body.inpaas footer .inPaas-footer,
+body.inpaas footer p.copyright,
+body.inpaas footer .link-cp,
+body.inpaas footer .social-link-ip li,
+body.inpaas footer .social-link-ip li a,
+body.inpaas section.contact-ip .info-contact li {
+    float: left
+}
+
+#RIGHT,
+body.inpaas section.home-section .registerInPaaS,
+body.inpaas section.home-section .registerInPaaS input[type="submit"],
+body.inpaas section.tabs-page .nav-tabs-ip li {
+    float: right
+}
+
+#HIDE {
+    display: none
+}
+
+#SHOW {
+    display: block
+}
+
+#NO-MARGIN,
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+*,
+*:after,
+*:before,
+body.inpaas .no-margin,
+body.inpaas p,
+body.inpaas section.home-section .registerInPaaS .heading,
+body.inpaas section.home-section .registerInPaaS li,
+body.inpaas section.home-section .registerInPaaS p,
+body.inpaas section.home-section .registerInPaaS ul.listForm,
+body.inpaas section.overview .row,
+body.inpaas section.functionality .heading,
+body.inpaas section.row-ps .heading,
+body.inpaas section.contact .heading,
+body.inpaas section.contact .listForm,
+body.inpaas section.contact .listForm li,
+body.inpaas footer .inPaas-footer,
+body.inpaas section.tabs-page .nav-tabs-ip li a {
+    margin: 0
+}
+
+#NO-PADDING,
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+*,
+*:after,
+*:before,
+body.inpaas .no-padding,
+body.inpaas .navbar .navbar-brand,
+body.inpaas section.home-section .registerInPaaS .heading,
+body.inpaas section.functionality .heading,
+body.inpaas section.row-ps .heading,
+body.inpaas section.contact .heading {
+    padding: 0
+}
+
+#FAMILY,
+body.inpaas .navbar .navbar-nav>li>a,
+body.inpaas section.contact-ip .info-contact li {
+    font-family: "Open Sans", sans-serif
+}
+
+#LIGHTER {
+    font-weight: lighter
+}
+
+#NORMAL {
+    font-weight: normal
+}
+
+#STRONG {
+    font-weight: bold
+}
+
+#ITALIC {
+    font-style: italic
+}
+
+#NO-BORDER,
+body.inpaas section.tabs-page .tab-content,
+body.inpaas section.tabs-page .tab-content .tab-pane,
+body.inpaas section.form-contact .form-control {
+    border: none
+}
+
+#BORDER-RADIUS {
+    border-radius: 5px
+}
+
+#INDENT,
+body.inpaas footer .inPaas-footer,
+body.inpaas footer .social-link-ip li {
+    text-indent: -9999px
+}
+
+#UNDERLINE,
+body.inpaas footer p.copyright a,
+body.inpaas section.contact-ip .info-contact a {
+    text-decoration: underline
+}
+
+#NO-UNDERLINE,
+body.inpaas section.functionality .btn-plus-more,
+body.inpaas section.row-ps .btn-plus-more,
+body.inpaas footer p.copyright a:hover,
+body.inpaas section.contact-ip .info-contact a:hover {
+    text-decoration: none
+}
+
+#UPPERCASE,
+body.inpaas section.functionality .btn-plus-more,
+body.inpaas section.row-ps .btn-plus-more {
+    text-transform: uppercase
+}
+
+#LOWERCASE {
+    text-transform: lowercase
+}
+
+#CENTER,
+body.inpaas section.functionality .btn-plus-more,
+body.inpaas section.row-ps .btn-plus-more,
+body.inpaas section.contact h5 {
+    text-align: center
+}
+
+#POINTER,
+body.inpaas section.contact input[type="submit"],
+body.inpaas footer p.copyright a,
+body.inpaas section.form-contact .btn-blue {
+    cursor: pointer
+}
+
+#NO-LIST,
+body.inpaas footer .social-link-ip,
+body.inpaas section.contact-ip .info-contact {
+    list-style: none
+}
+
+#NO-OVERFLOW {
+    overflow: none
+}
+
+#OVERFLOW {
+    overflow: auto
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    font-style: inherit;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 100%
+}
+
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+body.inpaas {
+    overflow-x: hidden
+}
+
+body.inpaas .container {
+    padding: 0 25px
+}
+
+body.inpaas strong {
+    font-weight: bold
+}
+
+body.inpaas button,
+body.inpaas input[type="submit"] {
+    font-weight: lighter;
+    font-size: .87rem
+}
+
+body.inpaas h5,
+body.inpaas h3,
+body.inpaas h2 {
+    font-family: "SemplicitaPro";
+    text-transform: inherit;
+    font-weight: normal;
+    line-height: initial;
+    letter-spacing: initial
+}
+
+body.inpaas p {
+    line-height: initial;
+    letter-spacing: initial
+}
+
+body.inpaas .btn-sm {
+    font-family: "Open Sans";
+    font-weight: lighter;
+    letter-spacing: 2px;
+    border-radius: 6px;
+    padding: 10px 20px
+}
+
+body.inpaas .btn-red {
+    background: #CF403C
+}
+
+body.inpaas .btn-red:hover {
+    background: #E74843
+}
+
+body.inpaas .btn-navy {
+    background: #0A3D70
+}
+
+body.inpaas .btn-navy:hover {
+    background: #3E4C5A
+}
+
+body.inpaas .btn-blue {
+    background: #3BBEFF;
+    color: #fff
+}
+
+body.inpaas .btn-blue:hover {
+    background: #32A2D9
+}
+
+body.inpaas .btn.focus,
+body.inpaas .btn:focus,
+body.inpaas .btn:hover {
+    color: #fff
+}
+
+body.inpaas .navbar {
+    padding: 26px 0;
+    border-bottom: solid 1px #fff;
+    background-color: rgba(62, 76, 90, 0.3)
+}
+
+body.inpaas .navbar .navbar-brand {
+    height: 68px
+}
+
+body.inpaas .navbar .navbar-nav>li>a {
+    font-weight: 100;
+    font-size: .81rem;
+    padding: 8px
+}
+
+body.inpaas .navbar .navbar-nav {
+    padding: 15px 0px
+}
+
+body.inpaas .navbar-default .navbar-nav li a.selected,
+body.inpaas .navbar-default .navbar-nav .active a,
+body.inpaas .navbar-default .navbar-nav .dropdown.active a,
+body.inpaas .navbar-default .navbar-nav .active a:hover,
+body.inpaas .navbar-default .navbar-nav .dropdown.active a:hover,
+body.inpaas .navbar-default .navbar-nav .active a:focus,
+body.inpaas .navbar-default .navbar-nav .dropdown.active a:focus {
+    border-top: none;
+    border-bottom: 2px solid #fff
+}
+
+body.inpaas .navbar-default .navbar-nav>li>a:hover,
+body.inpaas .navbar-default .navbar-nav>li>a:focus,
+body.inpaas .navbar-default .navbar-nav>li>a:active {
+    border-bottom: 2px solid #fff
+}
+
+body.inpaas .navbar-default .navbar-nav>li>a {
+    border-top: none;
+    border-bottom: 2px solid transparent
+}
+
+body.inpaas .static-nav-collapse,
+body.inpaas .top-nav-collapse {
+    box-shadow: 0 2px 6px 0px rgba(83, 102, 121, 0.3);
+    background-color: #3e4c5a;
+    border: none
+}
+
+body.inpaas .static-nav-collapse .navbar-nav>li>a,
+body.inpaas .top-nav-collapse .navbar-nav>li>a {
+    color: #fff
+}
+
+body.inpaas section.home-section {
+    background: url(home_capa.jpg) no-repeat center;
+    padding: 230px 0 130px 0
+}
+
+body.inpaas section.home-section .col-left {
+    padding: 40px 0 30px
+}
+
+body.inpaas section.home-section .btn-know-how {
+    color: #fff;
+    margin-top: 30px
+}
+
+body.inpaas section.home-section h1 {
+    font-family: "Open Sans";
+    font-size: 2.28rem;
+    text-transform: inherit;
+    letter-spacing: 1px
+}
+
+body.inpaas section.home-section .registerInPaaS {
+    width: 380px;
+    height: 360px;
+    background-color: rgba(59, 190, 255, 0.8);
+    padding: 30px;
+    border-radius: 6px
+}
+
+body.inpaas section.home-section .registerInPaaS .heading p {
+    font-family: "SemplicitaPro";
+    font-size: 1.56rem;
+    color: #fff
+}
+
+body.inpaas section.home-section .registerInPaaS ul.listForm::-webkit-input-placeholder {
+    color: #fff
+}
+
+body.inpaas section.home-section .registerInPaaS ul.listForm:-moz-placeholder {
+    color: #fff
+}
+
+body.inpaas section.home-section .registerInPaaS ul.listForm::-moz-placeholder {
+    color: #fff
+}
+
+body.inpaas section.home-section .registerInPaaS ul.listForm:-ms-input-placeholder {
+    color: #fff
+}
+
+body.inpaas section.home-section .registerInPaaS input[type="text"] {
+    padding: 14px 0;
+    background: none;
+    border: none;
+    border-bottom: solid 1px #fff;
+    height: initial;
+    font-size: .93rem;
+    font-weight: 400;
+    font-family: "SemplicitaPro";
+    letter-spacing: 1px;
+    color: #fff;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none
+}
+
+body.inpaas section.home-section .registerInPaaS input[type="text"]:focus,
+body.inpaas section.home-section .registerInPaaS input[type="text"]:active {
+    background-color: rgba(50, 162, 217, 0.1)
+}
+
+body.inpaas section.home-section .registerInPaaS input[type="submit"] {
+    margin-top: 20px
+}
+
+body.inpaas section.overview h5,
+body.inpaas section.overview p {
+    color: #fff
+}
+
+body.inpaas section.overview h5 {
+    font-size: 2.18rem
+}
+
+body.inpaas section.overview p {
+    font-family: "Open Sans";
+    font-size: .93rem;
+    margin-bottom: 0 !important;
+    margin: 15px 0;
+    text-align: justify;
+    line-height: 1.25rem
+}
+
+body.inpaas section.overview .col-txt {
+    padding: 60px 90px
+}
+
+body.inpaas section.overview .row-1 {
+    background: url(imagem_about1.jpg) no-repeat center #A5ADB5
+}
+
+body.inpaas section.overview .row-1 .col-txt {
+    background: #A5ADB5
+}
+
+body.inpaas section.overview .row-2 {
+    background: url(imagem_about2.jpg) no-repeat top center #E6E8EB
+}
+
+body.inpaas section.overview .row-2 .col-txt {
+    background: #E6E8EB
+}
+
+body.inpaas section.overview .row-2 .col-txt h5 {
+    color: #3E4C5A
+}
+
+body.inpaas section.overview .row-2 .col-txt p {
+    color: #3E4C5A
+}
+
+body.inpaas section.vantagens {
+    padding: 70px 0
+}
+
+body.inpaas section.vantagens h5 {
+    font-family: "SemplicitaPro";
+    color: #3E4C5A;
+    font-size: 2.18rem;
+    margin-bottom: 70px
+}
+
+body.inpaas section.vantagens .row-line {
+    margin-bottom: 50px
+}
+
+body.inpaas section.vantagens .column {
+    padding: 0 30px
+}
+
+body.inpaas section.vantagens .column h3 {
+    font-family: "SemplicitaPro";
+    width: 100%;
+    height: 47px;
+    font-size: 1.25rem;
+    color: #3E4C5A;
+    margin-bottom: 20px;
+    padding-left: 70px;
+    padding-top: 10px;
+    background: url(vantagens.png) no-repeat 0 0
+}
+
+body.inpaas section.vantagens .column .consultant-applications {
+    background-position: 0 0
+}
+
+body.inpaas section.vantagens .column .database {
+    background-position: 0 -47px
+}
+
+body.inpaas section.vantagens .column .robust-secure {
+    background-position: 0 -94px
+}
+
+body.inpaas section.vantagens .column .any-purpose {
+    background-position: 0 -141px
+}
+
+body.inpaas section.vantagens .column .integrations {
+    background-position: 0 -189px
+}
+
+body.inpaas section.vantagens .column p {
+    text-align: justify;
+    font-size: .87rem;
+    text-transform: inherit;
+    color: #3E4C5A
+}
+
+body.inpaas section.functionality,
+body.inpaas section.row-ps {
+    padding: 0px 0;
+    background: #C9CED4
+}
+
+body.inpaas section.functionality .row-info,
+body.inpaas section.row-ps .row-info {
+    padding: 80px 0
+}
+
+body.inpaas section.functionality .row-ps,
+body.inpaas section.row-ps .row-ps {
+    background: #A5ADB5
+}
+
+body.inpaas section.functionality h5,
+body.inpaas section.row-ps h5 {
+    margin-top: 50px;
+    color: #3E4C5A;
+    font-size: 2.18rem
+}
+
+body.inpaas section.functionality p,
+body.inpaas section.row-ps p {
+    font-family: "Open Sans";
+    text-align: justify;
+    color: #3E4C5A;
+    font-size: .87rem;
+    margin: 30px 0 50px
+}
+
+body.inpaas section.functionality .btn-plus-more,
+body.inpaas section.row-ps .btn-plus-more {
+    background: #32A2D9;
+    border-radius: 5px;
+    padding: 15px 30px;
+    color: #fff;
+    margin-top: 25px;
+    width: 140px;
+    letter-spacing: 2px
+}
+
+body.inpaas section.functionality .btn-plus-more:hover,
+body.inpaas section.row-ps .btn-plus-more:hover {
+    background: #3BBEFF
+}
+
+body.inpaas section.row-ps {
+    background: #A5ADB5
+}
+
+body.inpaas section.contact {
+    padding: 50px 0;
+    background: #0A3D70
+}
+
+body.inpaas section.contact .heading {
+    margin-bottom: 25px
+}
+
+body.inpaas section.contact h5 {
+    font-family: "SemplicitaPro";
+    font-size: 1.56rem;
+    color: #fff
+}
+
+body.inpaas section.contact h5 strong {
+    font-family: "SemplicitaPro-Semibold"
+}
+
+body.inpaas section.contact input.form-control {
+    font-family: "Open Sans";
+    width: 100%;
+    height: 45px;
+    padding: 0 20px;
+    line-height: 45px;
+    font-size: .87rem;
+    color: #3E4C5A;
+    border-radius: 5px;
+    font-weight: 500
+}
+
+body.inpaas section.contact .col-md-3 {
+    padding-left: 15px
+}
+
+body.inpaas section.contact .col-md-3::-webkit-input-placeholder {
+    color: #3E4C5A
+}
+
+body.inpaas section.contact .col-md-3:-moz-placeholder {
+    color: #3E4C5A
+}
+
+body.inpaas section.contact .col-md-3::-moz-placeholder {
+    color: #3E4C5A
+}
+
+body.inpaas section.contact .col-md-3:-ms-input-placeholder {
+    color: #3E4C5A
+}
+
+body.inpaas section.contact .col-md-3 .btn-red {
+    height: 45px;
+    width: 100%;
+    color: #fff
+}
+
+body.inpaas section.plus-inpaas {
+    padding: 80px 0;
+    background: #32A2D9
+}
+
+body.inpaas section.plus-inpaas h3,
+body.inpaas section.plus-inpaas h5,
+body.inpaas section.plus-inpaas p {
+    color: #fff
+}
+
+body.inpaas section.plus-inpaas .box-info {
+    padding: 20px 35px;
+    border: solid 1px #fff;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    height: 210px
+}
+
+body.inpaas section.plus-inpaas h3 {
+    width: 100%;
+    height: 35px;
+    font-size: 1.25rem;
+    color: #fff;
+    margin-bottom: 20px;
+    padding-left: 60px;
+    padding-top: 10px;
+    background: url(plus.png) no-repeat 0 0
+}
+
+body.inpaas section.plus-inpaas p {
+    font-family: "Open Sans";
+    font-size: .87rem;
+    text-align: justify
+}
+
+body.inpaas section.plus-inpaas .support {
+    background-position: 0 0
+}
+
+body.inpaas section.plus-inpaas .ramp-up {
+    background-position: 0 -35px
+}
+
+body.inpaas section.plus-inpaas .universal {
+    background-position: 0 -70px
+}
+
+body.inpaas section.plus-inpaas .updates {
+    background-position: 0 -105px
+}
+
+body.inpaas footer {
+    background: #3E4C5A;
+    padding: 35px 0
+}
+
+body.inpaas footer .inPaas-footer {
+    background: url(logo-white.png) no-repeat 0 0;
+    width: 85px;
+    height: 48px
+}
+
+body.inpaas footer p.copyright {
+    font-family: "Open Sans";
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: .75rem;
+    color: #E6E8EB
+}
+
+body.inpaas footer p.copyright a {
+    color: #E6E8EB
+}
+
+body.inpaas footer p.copyright .link-cp {
+    width: 100%
+}
+
+body.inpaas footer .social-link-ip {
+    padding-top: 10px
+}
+
+body.inpaas footer .social-link-ip li a {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    background: url(social-media.png) no-repeat 0 0
+}
+
+body.inpaas footer .social-link-ip li.facebook a {
+    background-position: 0 0
+}
+
+body.inpaas footer .social-link-ip li.facebook a:hover {
+    background-position: 0 -30px
+}
+
+body.inpaas footer .social-link-ip li.twitter a {
+    background-position: -30px 0
+}
+
+body.inpaas footer .social-link-ip li.twitter a:hover {
+    background-position: -30px -30px
+}
+
+body.inpaas footer .social-link-ip li.gplus a {
+    background-position: -60px 0
+}
+
+body.inpaas footer .social-link-ip li.gplus a:hover {
+    background-position: -60px -30px
+}
+
+body.inpaas footer .social-link-ip li.linkedin a {
+    background-position: -90px 0
+}
+
+body.inpaas footer .social-link-ip li.linkedin a:hover {
+    background-position: -90px -30px
+}
+
+body.inpaas section.functionality-ip {
+    padding: 280px 0 220px
+}
+
+body.inpaas section.consulting-bg {
+    background: url(consulting.jpg) no-repeat
+}
+
+body.inpaas section.services-bg {
+    background: url(services.jpg) no-repeat
+}
+
+body.inpaas section.applications-bg {
+    background: url(applications.jpg) no-repeat
+}
+
+body.inpaas section.dashboard-bg {
+    background: url(dashboard.jpg) no-repeat
+}
+
+body.inpaas section.database-bg {
+    background: url(database.jpg) no-repeat
+}
+
+body.inpaas section.management-bg {
+    background: url(management.jpg) no-repeat
+}
+
+body.inpaas section.security-bg {
+    background: url(security.jpg) no-repeat
+}
+
+body.inpaas section.tabs-page .nav-tabs-ip {
+    width: initial;
+    margin: 0 auto;
+    margin-top: -99px;
+    width: 345px
+}
+
+body.inpaas section.tabs-page .nav-tabs-ip li {
+    height: 100px
+}
+
+body.inpaas section.tabs-page .nav-tabs-ip li a {
+    background: none;
+    height: 100%;
+    line-height: 90px;
+    font-size: .87rem;
+    text-transform: inherit
+}
+
+body.inpaas section.tabs-page .nav-tabs-ip li a:hover {
+    background-color: rgba(255, 255, 255, 0.2)
+}
+
+body.inpaas section.tabs-page .nav-tabs-ip li:first-child {
+    border-left: solid 1px #fff
+}
+
+body.inpaas section.tabs-page .nav-tabs-ip li.active {
+    border-bottom: 5px solid #fff
+}
+
+body.inpaas section.tabs-page .tab-content .tab-pane {
+    background: none;
+    padding: 70px 0;
+    opacity: 1;
+    color: inherit
+}
+
+body.inpaas section.info-func .row-functionlaity {
+    padding: 80px 0
+}
+
+body.inpaas section.info-func .row-content {
+    padding-bottom: 80px
+}
+
+body.inpaas section.info-func .row-content h5 {
+    margin-top: 40px
+}
+
+body.inpaas section.info-func .row-content p {
+    margin: 15px 0 0px
+}
+
+body.inpaas section.contact-ip {
+    background: url(contact_capa.jpg) no-repeat center -80px;
+    padding: 300px 0 130px 0;
+    height: 700px
+}
+
+body.inpaas section.contact-ip .info-contact li {
+    width: 100%;
+    height: 35px;
+    margin-bottom: 25px;
+    padding-left: 60px;
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #fff;
+    background: url(contact.png) no-repeat 0 0
+}
+
+body.inpaas section.contact-ip .info-contact li.location {
+    background-position: 0 0
+}
+
+body.inpaas section.contact-ip .info-contact li.phone {
+    background-position: 0 -35px
+}
+
+body.inpaas section.contact-ip .info-contact li.mail {
+    background-position: 0 -70px
+}
+
+body.inpaas section.contact-ip .info-contact a {
+    color: #fff
+}
+
+body.inpaas section.form-contact {
+    background: #E6E8EB;
+    padding: 80px 0
+}
+
+body.inpaas section.form-contact .box-slct {
+    overflow: hidden;
+    background: url(select-combo.png) no-repeat right #fff
+}
+
+body.inpaas section.form-contact .box-slct .select-subject {
+    background: transparent;
+    width: 100%;
+    -webkit-appearance: none
+}
+
+body.inpaas section.form-contact .input-txt {
+    margin-bottom: 10px
+}
+
+body.inpaas section.form-contact .form-control {
+    width: 100%;
+    height: 45px;
+    padding: 0 20px;
+    border-radius: 5px;
+    font-size: .81rem
+}
+
+body.inpaas section.form-contact .textarea-msg {
+    height: 100px;
+    padding: 10px
+}
+
+body.inpaas section.form-contact .btn-blue {
+    width: 30%;
+    margin-top: 10px
+}
+
+body.inpaas section.form-contact::-webkit-input-placeholder {
+    color: #A5ADB5
+}
+
+body.inpaas section.form-contact:-moz-placeholder {
+    color: #A5ADB5
+}
+
+body.inpaas section.form-contact::-moz-placeholder {
+    color: #A5ADB5
+}
+
+body.inpaas section.form-contact:-ms-input-placeholder {
+    color: #A5ADB5
+}
+
+body.inpaas #loading p {
+    font-size: 1.25rem
+}
+
+body.inpaas #loading i.fa {
+    font-size: 2.28rem
+}
+
+@media (min-width: 1200px) {
+    body.inpaas .container {
+        width: 1100px
+    }
+}
+
+@media (max-width: 1200px) {
+    body.inpaas footer .container {
+        padding: 0 !Important
+    }
+}
+
+@media (max-width: 990px) {
+    body.inpaas section.home-section h1 {
+        font-size: 1.5rem
+    }
+    body.inpaas section.home-section .registerInPaaS {
+        width: 100%
+    }
+    body.inpaas section.home-section .registerInPaaS .heading p {
+        font-size: 1.2rem
+    }
+    body.inpaas section.vantagens .row-line .column {
+        margin-bottom: 30px
+    }
+    body.inpaas section.home-section.contact-ip {
+        padding: 170px 0 50px;
+        height: 400px
+    }
+    body.inpaas section.home-section {
+        padding: 120px 0 40px 0
+    }
+    body.inpaas section.home-section h1 {
+        font-size: 2rem
+    }
+    body.inpaas section.home-section {
+        padding: 170px 0 150px
+    }
+    body.inpaas section.form-contact .btn-blue {
+        width: 100%
+    }
+    body.inpaas section.contact {
+        padding-bottom: 40px
+    }
+    body.inpaas section.contact .registerInPaaS ul.listForm li {
+        width: 95%;
+        margin-bottom: 10px
+    }
+    body.inpaas section.functionality .row-info,
+    body.inpaas section.row-ps .row-info {
+        padding: 40px 0 80px
+    }
+}
+
+@media (max-width: 767px) {
+    body.inpaas section.home-section {
+        padding: 120px 0 40px 0
+    }
+    body.inpaas section.home-section .col-md-6.col-left {
+        padding: 40px 15px 30px
+    }
+    body.inpaas section.home-section h1 {
+        font-size: 2rem
+    }
+    body.inpaas section.home-section .col-md-5 {
+        padding: 0
+    }
+    body.inpaas section.home-section .registerInPaaS {
+        width: 100%;
+        height: 100%
+    }
+    body.inpaas section.home-section .registerInPaaS .heading {
+        padding: 0 2%
+    }
+    body.inpaas section.home-section .listForm li {
+        float: left;
+        width: 50%;
+        padding: 0 2%
+    }
+    body.inpaas section.home-section .listForm li input[type="submit"] {
+        width: 100%
+    }
+    body.inpaas section.home-section .listForm li:nth-child(3) {
+        width: 70%
+    }
+    body.inpaas section.home-section .listForm li:nth-child(4) {
+        width: 30%
+    }
+    body.inpaas .navbar .container {
+        padding: 0
+    }
+    body.inpaas .navbar {
+        background: #3E4C5A;
+        padding-bottom: 0
+    }
+    body.inpaas .navbar .navbar-header a img {
+        height: 45px
+    }
+    body.inpaas .navbar .container .navbar-header {
+        padding: 0 25px
+    }
+    body.inpaas .navbar-default .navbar-toggle,
+    body.inpaas .navbar-default .navbar-toggle:active,
+    body.inpaas .navbar-default .navbar-toggle:focus {
+        border-color: #fff
+    }
+    body.inpaas .navbar-default .navbar-toggle .icon-bar,
+    body.inpaas .navbar-default .navbar-toggle:focus .icon-bar {
+        background-color: #fff
+    }
+    body.inpaas .navbar-default .navbar-collapse,
+    body.inpaas .navbar-default .navbar-form {
+        padding: 0 30px;
+        border: none
+    }
+    body.inpaas .navbar-default .navbar-collapse .nav>li a,
+    body.inpaas .navbar-default .navbar-form .nav>li a {
+        border: none;
+        color: #fff
+    }
+    body.inpaas .navbar-default .navbar-collapse .nav>li a:hover,
+    body.inpaas .navbar-default .navbar-form .nav>li a:hover {
+        background: #536679
+    }
+    body.inpaas section.functionality .btn-plus-more,
+    body.inpaas section.row-ps .btn-plus-more {
+        width: 100%;
+        display: block;
+        margin-top: -30px
+    }
+    body.inpaas footer .social-link-ip {
+        margin-right: 30px
+    }
+}
+
+@media (max-width: 650px) {
+    body.inpaas section.home-section .col-md-6.col-left {
+        text-align: center
+    }
+    body.inpaas section.home-section .col-md-6.col-left .btn-sm {
+        width: 100%
+    }
+    body.inpaas section.home-section .col-form-register {
+        display: none
+    }
+    body.inpaas section.home-section .registerInPaaS .heading p {
+        font-size: 1.4rem
+    }
+    body.inpaas section.overview h5 {
+        text-align: center
+    }
+    body.inpaas section.overview .row-1.col-img .col-txt,
+    body.inpaas section.overview .row-2.col-img .col-txt {
+        padding: 50px
+    }
+    body.inpaas section#about h5 {
+        text-align: center
+    }
+    body.inpaas section#about img {
+        width: 80%
+    }
+    body.inpaas footer .col-md-8,
+    body.inpaas footer p.copyright {
+        width: 100%
+    }
+    body.inpaas footer .inPaas-footer,
+    body.inpaas footer .social-link-ip {
+        display: none
+    }
+    body.inpaas footer p.copyright {
+        margin: 0;
+        text-align: center
+    }
+}
+
+@media (max-width: 500px) {
+    body.inpaas section.home-section h1 {
+        font-size: 1.5rem
+    }
+    body.inpaas section.home-section .btn-sm {
+        padding: 10px 0
+    }
+    body.inpaas section.overview .row-1.col-img .col-txt,
+    body.inpaas section.overview .row-2.col-img .col-txt {
+        padding: 30px
+    }
+    body.inpaas section.vantagens {
+        padding: 40px 10px
+    }
+    body.inpaas section.vantagens h5 {
+        font-size: 2.0rem
+    }
+    body.inpaas section.vantagens .row-line {
+        margin-bottom: 0
+    }
+    body.inpaas section.functionality h5 {
+        font-size: 2.0rem
+    }
+    body.inpaas section.row-ps .row-info {
+        padding: 0 0 50px 0
+    }
+    body.inpaas section.row-ps h5 {
+        font-size: 2.0rem
+    }
+    body.inpaas section.row-ps .btn-plus-more {
+        width: 100%;
+        display: block;
+        margin-top: -30px
+    }
+    body.inpaas section.row-ps .col-md-7.col-xs-12.no-padding.text-center {
+        padding-top: 30px
+    }
+    body.inpaas section.contact {
+        padding-bottom: 40px
+    }
+    body.inpaas section.plus-inpaas h3 {
+        font-size: 1rem
+    }
+    body.inpaas section.plus-inpaas .box-info {
+        height: inherit
+    }
+    body.inpaas section.functionality-ip h1 {
+        display: none
+    }
+    body.inpaas section.functionality-ip {
+        padding: 0px 0 195px
+    }
+}
+
+
+/*# sourceMappingURL=inpaas.css.map */

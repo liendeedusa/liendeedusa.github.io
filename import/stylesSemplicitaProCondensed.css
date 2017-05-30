@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'SemplicitaPro-Italic';
+  src: url('SemplicitaPro-Italic.eot?#iefix') format('embedded-opentype'),  url('SemplicitaPro-Italic.otf')  format('opentype'),
+	     url('SemplicitaPro-Italic.woff') format('woff'), url('SemplicitaPro-Italic.ttf')  format('truetype'), url('SemplicitaPro-Italic.svg#SemplicitaPro-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
